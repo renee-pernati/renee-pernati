@@ -186,21 +186,22 @@ React • Node.js • MongoDB • AI
 <tr>
 <td width="50%">
 
-## 📰 News Aggregator
+## 🌐 Devfolio Portfolio Generator
 
-### Flutter News App
+### AI Portfolio Builder
 
 ✨ Features
 
-- 🌍 Global Headlines
-- 🔍 Search Articles
-- ❤️ Bookmark News
-- 📂 Categories
-- 📱 Beautiful Mobile UI
+- 🎨 Professional Portfolio Templates
+- ⚡ One-Click Portfolio Generation
+- 📱 Fully Responsive Design
+- 🌙 Modern UI with Dark Mode
+- 🔗 Social & Project Integration
+- 🚀 Instant Deployment Ready
 
 **Tech Stack**
 
-Flutter • Dart • REST API
+React • Tailwind CSS • JavaScript • AI Integration
 
 </td>
 
@@ -219,6 +220,59 @@ Flutter • Dart • REST API
 - 💹 Smart Forecasting
 
 **Tech Stack**
+
+Python • Pandas • NumPy • Scikit-Learn
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🧟 Zombie Survival Arena
+
+### JavaScript Browser Game
+
+✨ Features
+
+- 👾 Enemy Waves
+- 🔫 Weapon System
+- ❤️ Health System
+- ⭐ XP & Levels
+- 🏆 Scoreboard
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+## 🌍 Personal Portfolio
+
+### Developer Portfolio Website
+
+✨ Features
+
+- 💼 Professional Introduction
+- 🚀 Featured Projects
+- 🏆 Certifications
+- 📞 Contact Form
+- 📱 Fully Responsive
+- 🎨 Modern UI & Animations
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • Netlify
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---**Tech Stack**
 
 Python • Pandas • NumPy • Scikit-Learn
 
