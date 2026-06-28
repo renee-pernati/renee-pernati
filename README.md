@@ -1,39 +1,29 @@
-<!-- ===================================================== -->
-<!--             PREMIUM GITHUB PROFILE README             -->
-<!--                 Designed for 2026                     -->
-<!-- ===================================================== -->
-
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25&text=Renee%20Pernati&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Flutter%20Developer&descAlignY=58"/>
+    
+ 👋 Hello, I'm Renee Pernati
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24&text=Renee%20Pernati&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Application%20Builder%20•%20Flutter%20Developer&descAlignY=58"/>
+### 💻 Full Stack Developer • 🤖 AI & Machine Learning Enthusiast • 📱 Flutter Developer
 
-# 👋 Hi, I'm Renee Pernati
-
-### 💻 Full Stack Developer • 🤖 AI Application Builder • 📱 Flutter Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Creating+AI-Powered+Experiences;Flutter+Developer;Open+Source+Learner;Turning+Ideas+Into+Reality+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Creating+AI-Powered+Solutions;Flutter+App+Developer;Always+Learning+New+Technologies;Open+Source+Learner;Turning+Ideas+Into+Reality"/>
 
 <br>
 
-<a href="https://reneeportfoliowebiste.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-14B8A6?style=for-the-badge&logo=netlify&logoColor=white"/>
+<a href="https://reneeportfoliowebiste.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
-<a href="https://github.com/renee-pernati" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/renee-pernati-9179b9309/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/renee-pernati-9179b9309/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:renee.pernati@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=renee-pernati&style=for-the-badge&color=14B8A6" />
+<a href="https://github.com/renee-pernati">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
@@ -41,81 +31,64 @@
 
 # 💫 About Me
 
-```javascript
-const renee = {
-    education: "B.Tech Computer Science",
-    role: "Full Stack Developer",
-    interests: [
-        "Web Development",
-        "Artificial Intelligence",
-        "Flutter",
-        "UI/UX"
-    ],
-    currentlyLearning: [
-        "React",
-        "Next.js",
-        "Node.js",
-        "Docker",
-        "Cloud Computing"
-    ],
-    motto: "Build. Learn. Improve. Repeat."
-};
-```
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🚀 Who Am I?
+🎓 Computer Science student passionate about software engineering.
 
-- 💻 Passionate about building modern, scalable, and user-friendly applications.
-- 🤖 Love creating AI-powered software that solves real-world problems.
-- 📱 Flutter developer focused on beautiful cross-platform apps.
-- 🌱 Always exploring new technologies and improving my engineering skills.
-- 🎯 Aspiring Software Engineer who enjoys transforming ideas into products.
+🚀 Building modern, scalable, and user-friendly applications.
+
+🤖 Exploring Artificial Intelligence, Machine Learning, and intelligent software.
+
+📱 Developing cross-platform applications using Flutter.
+
+🌱 Continuously learning new technologies and improving problem-solving skills.
+
+🎯 Aspiring Software Engineer focused on building impactful products that solve real-world problems.
 
 ---
 
-# 🌐 Portfolio
+# 🚀 Current Focus
 
-<div align="center">
-
-<a href="https://reneeportfoliowebiste.netlify.app/">
-
-<img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-14B8A6?style=for-the-badge&logo=netlify&logoColor=white"/>
-
-</a>
-
-### 💼 Projects • Skills • Certifications • Resume • Contact
-
-</div>
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence
+- 📱 Flutter Development
+- ☁️ Cloud Computing
+- 🐳 Docker
+- 📊 Machine Learning
+- 🧩 Data Structures & Algorithms
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp,dart,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,dart,mysql"/>
 </p>
 
 ---
 
-## 🎨 Frontend Development
+## 🎨 Frontend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui"/>
 </p>
 
 ---
 
-## ⚙️ Backend Development
+## ⚙️ Backend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
+---
+
+## 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
 </p>
 
 ---
@@ -123,42 +96,38 @@ const renee = {
 ## 📱 Mobile Development
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=flutter,firebase"/>
-
 </p>
 
 ---
 
-## 🗄 Database
+## 🤖 AI & Machine Learning
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 </p>
 
 ---
 
-## 🤖 AI & Tools
+## 🛠 Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,docker,git,github,vscode,postman,figma,linux"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma"/>
 </p>
 
 ---
 
-# ⚡ What I Love Building
+# 🌟 Portfolio
 
 <div align="center">
 
-| 🌐 Full Stack Apps | 🤖 AI Applications | 📱 Mobile Apps |
-|:------------------:|:------------------:|:--------------:|
-| Modern Web Apps | AI-powered Tools | Flutter Apps |
-| Responsive UI | Automation | Cross-platform |
-| REST APIs | Smart Solutions | Beautiful UX |
+<a href="https://reneeportfoliowebiste.netlify.app/">
+
+<img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+</a>
+
+### Showcasing my projects, technical skills, certifications, and experience.
 
 </div>
 
@@ -168,78 +137,43 @@ const renee = {
 
 <div align="center">
 
-> *A selection of projects that reflect my passion for building modern, practical, and user-focused software.*
-
-</div>
-
-<br>
-
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-## 🤖 AI Drawing System
+## 🎬 Flix  
+### Movie & TV Discovery Platform  
 
-### AI-Powered Creative Platform
+✨ **Features**
+- 🎥 Trending Movies & TV Shows  
+- 🔍 Advanced Search  
+- ❤️ Favorites & Watchlist  
+- 📱 Fully Responsive Design  
+- ⚡ Fast Performance  
+- 🎨 Modern UI/UX  
 
-Transform ideas into artwork using AI with a clean and responsive interface.
-
-### ✨ Features
-
-- 🎨 AI Image Generation
-- ✏️ Sketch-to-Image Conversion
-- 🖌️ Multiple Art Styles
-- ⚡ Fast Processing
-- 📱 Responsive Design
-- ☁️ Cloud Ready
-
-### 🛠 Tech Stack
-
-`React` `Node.js` `Tailwind CSS` `AI API`
-
-<br>
-
-<a href="YOUR_GITHUB_REPO">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="YOUR_LIVE_DEMO">
-<img src="https://img.shields.io/badge/Live_Demo-14B8A6?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+**🛠 Tech Stack**  
+React • Tailwind CSS • JavaScript • API Integration  
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌐 Devfolio Portfolio Generator
+## 🌐 Devfolio Portfolio Generator  
+### AI Portfolio Builder  
 
-### AI Portfolio Builder
+✨ **Features**
+- 🎨 Professional Portfolio Templates  
+- ⚡ One-Click Generation  
+- 📱 Fully Responsive Design  
+- 🌙 Dark Mode Support  
+- 🔗 Social & Project Integration  
+- 🚀 Instant Deployment Ready  
 
-Generate beautiful developer portfolios with GitHub integration and responsive layouts.
-
-### ✨ Features
-
-- 🚀 Portfolio Generation
-- 🤖 AI Content Assistance
-- 📂 GitHub Integration
-- 📄 Resume Support
-- 🎨 Responsive Templates
-- ⚡ Deployment Ready
-
-### 🛠 Tech Stack
-
-`React` `Tailwind CSS` `JavaScript`
-
-<br>
-
-<a href="YOUR_GITHUB_REPO">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="YOUR_LIVE_DEMO">
-<img src="https://img.shields.io/badge/Live_Demo-14B8A6?style=for-the-badge&logo=netlify&logoColor=white">
-</a>
+**🛠 Tech Stack**  
+React • Tailwind CSS • JavaScript • AI Integration  
 
 </td>
 
@@ -249,67 +183,36 @@ Generate beautiful developer portfolios with GitHub integration and responsive l
 
 <td width="50%" valign="top">
 
-## 🎬 Flix
+## 🧟 Zombie Survival Arena  
+### JavaScript Browser Game  
 
-### Movie & TV Discovery Platform
+✨ **Features**
+- 👾 Enemy Waves System  
+- 🔫 Weapon Mechanics  
+- ❤️ Health System  
+- ⭐ XP & Leveling  
+- 🏆 Score Tracking  
 
-A modern entertainment platform for discovering trending movies and TV shows.
-
-### ✨ Features
-
-- 🔍 Smart Search
-- 🎥 Trending Content
-- ❤️ Favorites
-- 📱 Responsive UI
-- ⚡ Fast Experience
-- 🎨 Modern Design
-
-### 🛠 Tech Stack
-
-`React` `Tailwind CSS` `TMDB API`
-
-<br>
-
-<a href="YOUR_GITHUB_REPO">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="YOUR_LIVE_DEMO">
-<img src="https://img.shields.io/badge/Live_Demo-14B8A6?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+**🛠 Tech Stack**  
+HTML • CSS • JavaScript  
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧟 Zombie Survival Arena
+## 🎨 AI Drawing System  
+### Text-to-Art Generation Tool  
 
-### Browser Survival Game
+✨ **Features**
+- 🧠 AI-Powered Image Generation  
+- ✍️ Text-to-Image Creation  
+- 🎨 Multiple Art Styles Support  
+- 📱 Fully Responsive UI  
+- 💾 Download Generated Art  
+- ⚡ Fast Processing  
 
-A wave-based survival game built with vanilla JavaScript.
-
-### ✨ Features
-
-- 👾 Enemy Waves
-- 🔫 Weapon System
-- ⭐ XP Progression
-- ❤️ Health System
-- 🏆 Leaderboard
-- 🎮 Smooth Gameplay
-
-### 🛠 Tech Stack
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="YOUR_GITHUB_REPO">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="YOUR_LIVE_DEMO">
-<img src="https://img.shields.io/badge/Live_Demo-14B8A6?style=for-the-badge&logo=githubpages&logoColor=white">
-</a>
+**🛠 Tech Stack**  
+React • Node.js • AI API • Canvas API  
 
 </td>
 
@@ -317,27 +220,27 @@ A wave-based survival game built with vanilla JavaScript.
 
 <tr>
 
-<td colspan="2" align="center">
+<td width="50%" valign="top">
 
-## 🌍 Personal Portfolio Website
+## 🌍 Personal Portfolio  
+### Developer Portfolio Website  
 
-### My Digital Portfolio
+✨ **Features**
+- 💼 About Me Section  
+- 🚀 Projects Showcase  
+- 🏆 Certifications  
+- 📞 Contact Form  
+- 📱 Responsive Design  
+- 🎨 Animations & Modern UI  
 
-A professional portfolio showcasing my projects, skills, certifications, and experience.
+**🛠 Tech Stack**  
+HTML • CSS • JavaScript • Netlify  
 
-### ✨ Highlights
+</td>
 
-🏆 Projects Showcase • 💻 Skills • 📜 Certifications • 📱 Responsive Design • 📬 Contact Section • ✨ Modern UI
+<td width="50%" valign="top">
 
-### 🛠 Tech Stack
-
-`HTML` `CSS` `JavaScript` `Netlify`
-
-<br>
-
-<a href="https://reneeportfoliowebiste.netlify.app/">
-<img src="https://img.shields.io/badge/Visit_Portfolio-14B8A6?style=for-the-badge&logo=netlify&logoColor=white">
-</a>
+<!-- EMPTY CELL (keeps layout clean) -->
 
 </td>
 
@@ -345,23 +248,7 @@ A professional portfolio showcasing my projects, skills, certifications, and exp
 
 </table>
 
----
-
-# 🏅 Achievements
-
-<div align="center">
-
-| 🚀 | Achievement |
-|:--:|-------------|
-| 💻 | Built multiple Full Stack applications |
-| 🤖 | Developed AI-powered projects |
-| 📱 | Created responsive Flutter applications |
-| 🎮 | Designed browser-based games |
-| 🌐 | Built and deployed production-ready websites |
-
 </div>
-
----
 
 # 📊 GitHub Analytics
 
@@ -369,7 +256,7 @@ A professional portfolio showcasing my projects, skills, certifications, and exp
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=renee-pernati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=renee-pernati&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=renee-pernati&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -377,7 +264,7 @@ A professional portfolio showcasing my projects, skills, certifications, and exp
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renee-pernati&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renee-pernati&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -393,91 +280,237 @@ A professional portfolio showcasing my projects, skills, certifications, and exp
 
 ---
 
-# 🎯 Current Focus
+# 📊 GitHub Overview
 
 <div align="center">
 
-| 🌱 Learning | 🚀 Building | 🎯 Goal |
-|-------------|------------|----------|
-| Next.js | AI Drawing System | Software Engineer |
-| Docker | Devfolio Portfolio Generator | Full Stack Developer |
-| Cloud Computing | Modern Web Apps | Open Source Contributor |
-| System Design | Flutter Apps | Continuous Learning |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renee-pernati&theme=github_dark"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renee-pernati&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renee-pernati&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renee-pernati&theme=github_dark"/>
 
 </div>
 
 ---
 
-# 💡 What I'm Working On
-
-```text
-🧠 Learning modern web technologies
-
-🤖 Building AI-powered applications
-
-🌐 Creating responsive full-stack websites
-
-📱 Developing Flutter applications
-
-🚀 Improving problem-solving and DSA
-
-☁️ Exploring Cloud & DevOps
-```
-
----
-
-# 📚 Learning Journey
+# 🔥 Activity
 
 <div align="center">
 
-```text
-HTML/CSS
-    │
-    ▼
-JavaScript
-    │
-    ▼
-React & Tailwind
-    │
-    ▼
-Node.js & Express
-    │
-    ▼
-Databases
-    │
-    ▼
-Flutter
-    │
-    ▼
-Artificial Intelligence
-    │
-    ▼
-Cloud Computing
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renee-pernati&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
 ---
 
-# 🌍 Let's Connect
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|:-----|:------:|
+| 🚀 Build impactful Full Stack applications | 🟢 In Progress |
+| 🤖 Master AI & Machine Learning | 🟢 In Progress |
+| 📱 Develop high-quality Flutter apps | 🟢 In Progress |
+| 🌐 Contribute to Open Source | 🟡 Planned |
+| ☁️ Learn Cloud & DevOps | 🟢 In Progress |
+| 🧩 Strengthen DSA & Problem Solving | 🟢 In Progress |
+| 💼 Secure a Software Engineering role | 🎯 Target |
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| Frontend | Backend | AI | Cloud |
+|----------|---------|----|-------|
+| React ⚛️ | Node.js 🟢 | Machine Learning 🤖 | Docker 🐳 |
+| Next.js ▲ | Express ⚡ | Deep Learning 🧠 | AWS ☁️ |
+| Tailwind CSS 🎨 | MongoDB 🍃 | Generative AI ✨ | CI/CD 🚀 |
+
+</div>
+
+---
+
+# 🏅 Certifications & Achievements
+
+- 🏆 Hackathon Participant
+- 📜 Certified in Web Development & AI-related courses
+- 💻 Built multiple real-world Full Stack and AI projects
+- 🌱 Continuous learner with a passion for innovation
+
+---
+
+# 💡 Fun Facts
+
+- 📸 I enjoy photography and capturing nature.
+- 🎨 I love painting and creative design.
+- 🎵 Music keeps me inspired while coding.
+- 🕷️ Huge Marvel fan.
+- ✈️ I enjoy exploring new places and technologies.
+
+---
+
+# 💼 Professional Highlights
+
+<div align="center">
+
+| 🚀 Focus Area | 💡 Expertise |
+|--------------|--------------|
+| 🌐 Full Stack Development | Building scalable web applications |
+| 🤖 Artificial Intelligence | Exploring intelligent software solutions |
+| 📱 Flutter Development | Cross-platform mobile applications |
+| 🎨 UI/UX Design | Creating modern and responsive interfaces |
+| 📊 Machine Learning | Predictive analytics and data-driven solutions |
+
+</div>
+
+---
+
+# ⚡ What I Enjoy Building
+
+<div align="center">
+
+🖥️ Full Stack Applications • 🤖 AI Solutions • 📱 Mobile Apps • 🌍 REST APIs
+
+📊 Dashboards • 🎮 Interactive Projects • 💹 Machine Learning Models • ☁️ Cloud Applications
+
+</div>
+
+---
+
+# 🧠 Problem Solving Philosophy
+
+```text
+Think 💭
+Design 🎨
+Build 💻
+Test 🧪
+Improve 🚀
+Repeat 🔁
+```
+
+---
+
+# 🛠 Development Workflow
+
+```text
+Idea 💡
+   │
+   ▼
+Research 🔍
+   │
+   ▼
+Design 🎨
+   │
+   ▼
+Development 💻
+   │
+   ▼
+Testing 🧪
+   │
+   ▼
+Deployment 🚀
+   │
+   ▼
+Continuous Improvement 📈
+```
+
+---
+
+# 📅 2026 Roadmap
+
+### Quarter 1
+- ✅ Strengthen React fundamentals
+- ✅ Improve Java and Python skills
+- ✅ Build portfolio projects
+
+### Quarter 2
+- 🚀 Learn Docker & DevOps
+- 🚀 Build AI-powered applications
+- 🚀 Contribute to Open Source
+
+### Quarter 3
+- 🎯 Learn System Design
+- 🎯 Explore Cloud Computing
+- 🎯 Build scalable full-stack projects
+
+### Quarter 4
+- 💼 Apply for Software Engineering roles
+- 💼 Publish advanced projects
+- 💼 Continue expanding technical expertise
+
+---
+
+# 📈 Current Interests
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge)
+
+![Full Stack](https://img.shields.io/badge/Full%20Stack-059669?style=for-the-badge)
+
+![Flutter](https://img.shields.io/badge/Flutter-0284C7?style=for-the-badge)
+
+![Open Source](https://img.shields.io/badge/Open%20Source-E11D48?style=for-the-badge)
+
+</div>
+
+---
+
+# 🌟 Motto
+
+<div align="center">
+
+### *"Learn continuously. Build consistently. Grow intentionally."*
+
+</div>
+
+---
+
+# 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://reneeportfoliowebiste.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-14B8A6?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-
-<a href="https://github.com/renee-pernati" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/renee-pernati-9179b9309/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:renee.pernati@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/renee-pernati">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 📊 Profile Metrics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=renee-pernati&label=Profile%20Views&style=for-the-badge&color=00C7B7"/>
+
+<img src="https://img.shields.io/github/followers/renee-pernati?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/renee-pernati?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
@@ -487,7 +520,7 @@ Cloud Computing
 
 <div align="center">
 
-> **"Code is more than syntax—it's the art of turning ideas into reality."**
+> *"The best way to predict the future is to build it."*
 
 </div>
 
@@ -497,10 +530,11 @@ Cloud Computing
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, feel free to ⭐ star my repositories, connect with me on LinkedIn, or explore my portfolio.
+If you like my work, consider ⭐ starring my repositories and connecting with me on LinkedIn.
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,25"/>
 
 </div>
+
