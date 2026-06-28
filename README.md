@@ -1,5 +1,24 @@
-# 💫 About Me:
-✨ Passionate about Software Development, Artificial Intelligence, and Innovation.<br><br>🎓 B.Tech Student<br><br>💻 Interested in<br>• Full Stack Development<br>• Artificial Intelligence<br>• Machine Learning<br>• Flutter App Development<br>• UI/UX Design<br>• Cloud Computing<br><br>🌱 Currently Learning<br><br>• React<br>• Node.js<br>• Express.js<br>• MongoDB<br>• Python<br>• Java<br>• Data Structures & Algorithms<br>• System Design<br><br>🎯 Goal<br><br>Become a Software Engineer and AI Engineer while creating impactful products used by millions.
+## 👋 About Me
+
+Hello! I'm Renee Pernati, an aspiring Software Engineer and AI enthusiast currently pursuing a B.Tech in Computer Science.
+
+I specialize in developing responsive web applications, experimenting with machine learning models, and building user-friendly mobile apps. My interests span Full Stack Development, Artificial Intelligence, Cloud Technologies, and Software Engineering.
+
+I enjoy participating in hackathons, building innovative projects, learning emerging technologies, and collaborating with other developers.
+
+### What I'm working on
+- AI-powered applications
+- Full Stack web projects
+- Machine Learning solutions
+- Open-source contributions
+
+### Looking for
+- Internship opportunities
+- Open-source collaborations
+- Innovative software development projects
+
+### Fun Fact
+I love photography, traveling, and turning creative ideas into real software.
 
 
 ## 🌐 Socials:
